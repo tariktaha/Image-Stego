@@ -1,0 +1,4849 @@
+
+===== RUN START =====
+Log file: /Users/kubramulayim/Documents/DonemProjesi/image-stego/output_logs/run.log
+
+[1] İşleniyor: input/cover/7022.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [1/400] -> 7022
+
+[2] İşleniyor: input/cover/8843.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [2/400] -> 8843
+
+[3] İşleniyor: input/cover/5061.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[4] İşleniyor: input/cover/7723.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[5] İşleniyor: input/cover/7647.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [3/400] -> 7647
+
+[6] İşleniyor: input/cover/1497.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [4/400] -> 1497
+
+[7] İşleniyor: input/cover/8678.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [5/400] -> 8678
+
+[8] İşleniyor: input/cover/5422.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[9] İşleniyor: input/cover/4509.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[10] İşleniyor: input/cover/5905.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [6/400] -> 5905
+
+[11] İşleniyor: input/cover/5083.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [7/400] -> 5083
+
+[12] İşleniyor: input/cover/7444.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [8/400] -> 7444
+
+[13] İşleniyor: input/cover/70.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [9/400] -> 70
+
+[14] İşleniyor: input/cover/8433.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [10/400] -> 8433
+
+[15] İşleniyor: input/cover/2281.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[16] İşleniyor: input/cover/5453.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [11/400] -> 5453
+
+[17] İşleniyor: input/cover/7284.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [12/400] -> 7284
+
+[18] İşleniyor: input/cover/8591.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[19] İşleniyor: input/cover/7353.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [13/400] -> 7353
+
+[20] İşleniyor: input/cover/3482.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [14/400] -> 3482
+
+[21] İşleniyor: input/cover/3837.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[22] İşleniyor: input/cover/4383.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[23] İşleniyor: input/cover/6251.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [15/400] -> 6251
+
+[24] İşleniyor: input/cover/6462.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [16/400] -> 6462
+
+[25] İşleniyor: input/cover/7931.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[26] İşleniyor: input/cover/734.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [17/400] -> 734
+
+[27] İşleniyor: input/cover/2570.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [18/400] -> 2570
+
+[28] İşleniyor: input/cover/8639.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [19/400] -> 8639
+
+[29] İşleniyor: input/cover/7843.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[30] İşleniyor: input/cover/4012.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [20/400] -> 4012
+
+[31] İşleniyor: input/cover/7305.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [21/400] -> 7305
+
+[32] İşleniyor: input/cover/2740.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[33] İşleniyor: input/cover/5119.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [22/400] -> 5119
+
+[34] İşleniyor: input/cover/5704.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [23/400] -> 5704
+
+[35] İşleniyor: input/cover/1999.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [24/400] -> 1999
+
+[36] İşleniyor: input/cover/1711.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [25/400] -> 1711
+
+[37] İşleniyor: input/cover/4913.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[38] İşleniyor: input/cover/1772.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[39] İşleniyor: input/cover/3593.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [26/400] -> 3593
+
+[40] İşleniyor: input/cover/2720.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [27/400] -> 2720
+
+[41] İşleniyor: input/cover/6830.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [28/400] -> 6830
+
+[42] İşleniyor: input/cover/4488.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[43] İşleniyor: input/cover/2397.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [29/400] -> 2397
+
+[44] İşleniyor: input/cover/164.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[45] İşleniyor: input/cover/1762.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[46] İşleniyor: input/cover/2291.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[47] İşleniyor: input/cover/1578.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[48] İşleniyor: input/cover/7982.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [30/400] -> 7982
+
+[49] İşleniyor: input/cover/3200.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [31/400] -> 3200
+
+[50] İşleniyor: input/cover/1044.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[51] İşleniyor: input/cover/3058.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [32/400] -> 3058
+
+[52] İşleniyor: input/cover/4466.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [33/400] -> 4466
+
+[53] İşleniyor: input/cover/8068.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[54] İşleniyor: input/cover/5454.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [34/400] -> 5454
+
+[55] İşleniyor: input/cover/8809.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [35/400] -> 8809
+
+[56] İşleniyor: input/cover/8663.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [36/400] -> 8663
+
+[57] İşleniyor: input/cover/3034.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[58] İşleniyor: input/cover/1557.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[59] İşleniyor: input/cover/7872.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [37/400] -> 7872
+
+[60] İşleniyor: input/cover/286.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [38/400] -> 286
+
+[61] İşleniyor: input/cover/8036.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[62] İşleniyor: input/cover/5187.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[63] İşleniyor: input/cover/3021.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[64] İşleniyor: input/cover/7899.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [39/400] -> 7899
+
+[65] İşleniyor: input/cover/8114.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [40/400] -> 8114
+
+[66] İşleniyor: input/cover/3003.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[67] İşleniyor: input/cover/2935.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[68] İşleniyor: input/cover/4398.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[69] İşleniyor: input/cover/3807.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[70] İşleniyor: input/cover/4960.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[71] İşleniyor: input/cover/4329.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[72] İşleniyor: input/cover/3947.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [41/400] -> 3947
+
+[73] İşleniyor: input/cover/5181.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [42/400] -> 5181
+
+[74] İşleniyor: input/cover/8764.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[75] İşleniyor: input/cover/5776.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [43/400] -> 5776
+
+[76] İşleniyor: input/cover/3661.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [44/400] -> 3661
+
+[77] İşleniyor: input/cover/6234.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [45/400] -> 6234
+
+[78] İşleniyor: input/cover/7624.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[79] İşleniyor: input/cover/7361.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [46/400] -> 7361
+
+[80] İşleniyor: input/cover/8864.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [47/400] -> 8864
+
+[81] İşleniyor: input/cover/6615.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [48/400] -> 6615
+
+[82] İşleniyor: input/cover/1771.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[83] İşleniyor: input/cover/8419.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [49/400] -> 8419
+
+[84] İşleniyor: input/cover/7597.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [50/400] -> 7597
+
+[85] İşleniyor: input/cover/1488.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [51/400] -> 1488
+
+[86] İşleniyor: input/cover/4253.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [52/400] -> 4253
+
+[87] İşleniyor: input/cover/4780.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[88] İşleniyor: input/cover/2366.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [53/400] -> 2366
+
+[89] İşleniyor: input/cover/8100.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [54/400] -> 8100
+
+[90] İşleniyor: input/cover/4652.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[91] İşleniyor: input/cover/4599.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [55/400] -> 4599
+
+[92] İşleniyor: input/cover/5692.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [56/400] -> 5692
+
+[93] İşleniyor: input/cover/1358.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [57/400] -> 1358
+
+[94] İşleniyor: input/cover/1076.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[95] İşleniyor: input/cover/4068.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[96] İşleniyor: input/cover/4236.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [58/400] -> 4236
+
+[97] İşleniyor: input/cover/8166.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [59/400] -> 8166
+
+[98] İşleniyor: input/cover/225.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[99] İşleniyor: input/cover/3031.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[100] İşleniyor: input/cover/6837.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[101] İşleniyor: input/cover/3578.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[102] İşleniyor: input/cover/1058.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [60/400] -> 1058
+
+[103] İşleniyor: input/cover/7251.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [61/400] -> 7251
+
+[104] İşleniyor: input/cover/5775.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [62/400] -> 5775
+
+[105] İşleniyor: input/cover/3476.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [63/400] -> 3476
+
+[106] İşleniyor: input/cover/24.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[107] İşleniyor: input/cover/6951.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [64/400] -> 6951
+
+[108] İşleniyor: input/cover/7573.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[109] İşleniyor: input/cover/6481.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[110] İşleniyor: input/cover/3618.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [65/400] -> 3618
+
+[111] İşleniyor: input/cover/4433.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [66/400] -> 4433
+
+[112] İşleniyor: input/cover/3543.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [67/400] -> 3543
+
+[113] İşleniyor: input/cover/8677.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[114] İşleniyor: input/cover/287.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[115] İşleniyor: input/cover/8481.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [68/400] -> 8481
+
+[116] İşleniyor: input/cover/6051.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[117] İşleniyor: input/cover/1689.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[118] İşleniyor: input/cover/5043.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [69/400] -> 5043
+
+[119] İşleniyor: input/cover/77.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[120] İşleniyor: input/cover/5951.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [70/400] -> 5951
+
+[121] İşleniyor: input/cover/5266.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [71/400] -> 5266
+
+[122] İşleniyor: input/cover/1194.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [72/400] -> 1194
+
+[123] İşleniyor: input/cover/5646.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [73/400] -> 5646
+
+[124] İşleniyor: input/cover/2573.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [74/400] -> 2573
+
+[125] İşleniyor: input/cover/4608.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[126] İşleniyor: input/cover/6650.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [75/400] -> 6650
+
+[127] İşleniyor: input/cover/7869.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[128] İşleniyor: input/cover/6006.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [76/400] -> 6006
+
+[129] İşleniyor: input/cover/3457.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[130] İşleniyor: input/cover/1580.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [77/400] -> 1580
+
+[131] İşleniyor: input/cover/7642.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[132] İşleniyor: input/cover/1654.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[133] İşleniyor: input/cover/7346.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[134] İşleniyor: input/cover/7403.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [78/400] -> 7403
+
+[135] İşleniyor: input/cover/1535.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [79/400] -> 1535
+
+[136] İşleniyor: input/cover/5037.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [80/400] -> 5037
+
+[137] İşleniyor: input/cover/5831.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[138] İşleniyor: input/cover/7138.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [81/400] -> 7138
+
+[139] İşleniyor: input/cover/8050.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [82/400] -> 8050
+
+[140] İşleniyor: input/cover/1848.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [83/400] -> 1848
+
+[141] İşleniyor: input/cover/4958.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [84/400] -> 4958
+
+[142] İşleniyor: input/cover/6378.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [85/400] -> 6378
+
+[143] İşleniyor: input/cover/6550.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [86/400] -> 6550
+
+[144] İşleniyor: input/cover/7874.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[145] İşleniyor: input/cover/2819.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[146] İşleniyor: input/cover/1765.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [87/400] -> 1765
+
+[147] İşleniyor: input/cover/1911.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [88/400] -> 1911
+
+[148] İşleniyor: input/cover/4623.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[149] İşleniyor: input/cover/8845.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[150] İşleniyor: input/cover/4651.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[151] İşleniyor: input/cover/4797.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [89/400] -> 4797
+
+[152] İşleniyor: input/cover/6054.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[153] İşleniyor: input/cover/963.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[154] İşleniyor: input/cover/2704.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [90/400] -> 2704
+
+[155] İşleniyor: input/cover/877.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [91/400] -> 877
+
+[156] İşleniyor: input/cover/8657.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[157] İşleniyor: input/cover/7530.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [92/400] -> 7530
+
+[158] İşleniyor: input/cover/612.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[159] İşleniyor: input/cover/4513.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[160] İşleniyor: input/cover/6869.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [93/400] -> 6869
+
+[161] İşleniyor: input/cover/6448.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [94/400] -> 6448
+
+[162] İşleniyor: input/cover/3439.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [95/400] -> 3439
+
+[163] İşleniyor: input/cover/2650.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [96/400] -> 2650
+
+[164] İşleniyor: input/cover/6257.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [97/400] -> 6257
+
+[165] İşleniyor: input/cover/5791.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [98/400] -> 5791
+
+[166] İşleniyor: input/cover/245.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[167] İşleniyor: input/cover/5470.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [99/400] -> 5470
+
+[168] İşleniyor: input/cover/1726.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[169] İşleniyor: input/cover/4336.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[170] İşleniyor: input/cover/6931.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[171] İşleniyor: input/cover/7089.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[172] İşleniyor: input/cover/3511.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [100/400] -> 3511
+
+[173] İşleniyor: input/cover/8023.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [101/400] -> 8023
+
+[174] İşleniyor: input/cover/1225.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[175] İşleniyor: input/cover/5849.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[176] İşleniyor: input/cover/4822.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[177] İşleniyor: input/cover/4184.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [102/400] -> 4184
+
+[178] İşleniyor: input/cover/4746.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [103/400] -> 4746
+
+[179] İşleniyor: input/cover/7272.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[180] İşleniyor: input/cover/8525.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[181] İşleniyor: input/cover/282.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [104/400] -> 282
+
+[182] İşleniyor: input/cover/3266.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [105/400] -> 3266
+
+[183] İşleniyor: input/cover/1709.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [106/400] -> 1709
+
+[184] İşleniyor: input/cover/6578.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [107/400] -> 6578
+
+[185] İşleniyor: input/cover/5628.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [108/400] -> 5628
+
+[186] İşleniyor: input/cover/3691.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [109/400] -> 3691
+
+[187] İşleniyor: input/cover/8376.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [110/400] -> 8376
+
+[188] İşleniyor: input/cover/2132.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [111/400] -> 2132
+
+[189] İşleniyor: input/cover/7701.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [112/400] -> 7701
+
+[190] İşleniyor: input/cover/2128.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [113/400] -> 2128
+
+[191] İşleniyor: input/cover/6535.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[192] İşleniyor: input/cover/6125.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [114/400] -> 6125
+
+[193] İşleniyor: input/cover/3906.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [115/400] -> 3906
+
+[194] İşleniyor: input/cover/611.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [116/400] -> 611
+
+[195] İşleniyor: input/cover/3956.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [117/400] -> 3956
+
+[196] İşleniyor: input/cover/5099.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[197] İşleniyor: input/cover/4030.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[198] İşleniyor: input/cover/5763.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [118/400] -> 5763
+
+[199] İşleniyor: input/cover/507.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[200] İşleniyor: input/cover/4962.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[201] İşleniyor: input/cover/3773.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[202] İşleniyor: input/cover/5937.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [119/400] -> 5937
+
+[203] İşleniyor: input/cover/5743.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [120/400] -> 5743
+
+[204] İşleniyor: input/cover/6441.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[205] İşleniyor: input/cover/5759.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [121/400] -> 5759
+
+[206] İşleniyor: input/cover/2027.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[207] İşleniyor: input/cover/8118.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[208] İşleniyor: input/cover/8704.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [122/400] -> 8704
+
+[209] İşleniyor: input/cover/5290.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [123/400] -> 5290
+
+[210] İşleniyor: input/cover/4494.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[211] İşleniyor: input/cover/4480.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[212] İşleniyor: input/cover/3422.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[213] İşleniyor: input/cover/7645.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [124/400] -> 7645
+
+[214] İşleniyor: input/cover/7562.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[215] İşleniyor: input/cover/2459.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [125/400] -> 2459
+
+[216] İşleniyor: input/cover/5581.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [126/400] -> 5581
+
+[217] İşleniyor: input/cover/8685.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [127/400] -> 8685
+
+[218] İşleniyor: input/cover/8859.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [128/400] -> 8859
+
+[219] İşleniyor: input/cover/1026.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[220] İşleniyor: input/cover/629.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[221] İşleniyor: input/cover/4153.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [129/400] -> 4153
+
+[222] İşleniyor: input/cover/3555.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[223] İşleniyor: input/cover/8391.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [130/400] -> 8391
+
+[224] İşleniyor: input/cover/5123.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [131/400] -> 5123
+
+[225] İşleniyor: input/cover/4754.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [132/400] -> 4754
+
+[226] İşleniyor: input/cover/1984.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [133/400] -> 1984
+
+[227] İşleniyor: input/cover/218.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[228] İşleniyor: input/cover/3391.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [134/400] -> 3391
+
+[229] İşleniyor: input/cover/7594.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[230] İşleniyor: input/cover/7560.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[231] İşleniyor: input/cover/3660.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [135/400] -> 3660
+
+[232] İşleniyor: input/cover/8290.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [136/400] -> 8290
+
+[233] İşleniyor: input/cover/6414.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[234] İşleniyor: input/cover/7549.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [137/400] -> 7549
+
+[235] İşleniyor: input/cover/8422.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [138/400] -> 8422
+
+[236] İşleniyor: input/cover/82.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[237] İşleniyor: input/cover/6624.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[238] İşleniyor: input/cover/2543.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[239] İşleniyor: input/cover/671.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [139/400] -> 671
+
+[240] İşleniyor: input/cover/572.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[241] İşleniyor: input/cover/8130.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [140/400] -> 8130
+
+[242] İşleniyor: input/cover/1696.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [141/400] -> 1696
+
+[243] İşleniyor: input/cover/4844.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [142/400] -> 4844
+
+[244] İşleniyor: input/cover/974.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[245] İşleniyor: input/cover/1397.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[246] İşleniyor: input/cover/4552.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [143/400] -> 4552
+
+[247] İşleniyor: input/cover/1679.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [144/400] -> 1679
+
+[248] İşleniyor: input/cover/5535.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[249] İşleniyor: input/cover/4059.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[250] İşleniyor: input/cover/5612.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [145/400] -> 5612
+
+[251] İşleniyor: input/cover/3067.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[252] İşleniyor: input/cover/2262.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[253] İşleniyor: input/cover/535.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [146/400] -> 535
+
+[254] İşleniyor: input/cover/726.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [147/400] -> 726
+
+[255] İşleniyor: input/cover/4346.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[256] İşleniyor: input/cover/2512.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[257] İşleniyor: input/cover/1950.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [148/400] -> 1950
+
+[258] İşleniyor: input/cover/2062.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [149/400] -> 2062
+
+[259] İşleniyor: input/cover/7071.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [150/400] -> 7071
+
+[260] İşleniyor: input/cover/5521.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [151/400] -> 5521
+
+[261] İşleniyor: input/cover/3864.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [152/400] -> 3864
+
+[262] İşleniyor: input/cover/445.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [153/400] -> 445
+
+[263] İşleniyor: input/cover/5893.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [154/400] -> 5893
+
+[264] İşleniyor: input/cover/3530.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[265] İşleniyor: input/cover/3128.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [155/400] -> 3128
+
+[266] İşleniyor: input/cover/8670.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[267] İşleniyor: input/cover/6921.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[268] İşleniyor: input/cover/247.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [156/400] -> 247
+
+[269] İşleniyor: input/cover/8348.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [157/400] -> 8348
+
+[270] İşleniyor: input/cover/3801.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [158/400] -> 3801
+
+[271] İşleniyor: input/cover/3792.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [159/400] -> 3792
+
+[272] İşleniyor: input/cover/99.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [160/400] -> 99
+
+[273] İşleniyor: input/cover/5859.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[274] İşleniyor: input/cover/2794.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [161/400] -> 2794
+
+[275] İşleniyor: input/cover/7992.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [162/400] -> 7992
+
+[276] İşleniyor: input/cover/816.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[277] İşleniyor: input/cover/3571.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[278] İşleniyor: input/cover/2917.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [163/400] -> 2917
+
+[279] İşleniyor: input/cover/5419.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [164/400] -> 5419
+
+[280] İşleniyor: input/cover/3251.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [165/400] -> 3251
+
+[281] İşleniyor: input/cover/8908.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [166/400] -> 8908
+
+[282] İşleniyor: input/cover/6167.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [167/400] -> 6167
+
+[283] İşleniyor: input/cover/3989.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [168/400] -> 3989
+
+[284] İşleniyor: input/cover/6841.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [169/400] -> 6841
+
+[285] İşleniyor: input/cover/3949.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [170/400] -> 3949
+
+[286] İşleniyor: input/cover/1439.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[287] İşleniyor: input/cover/6549.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [171/400] -> 6549
+
+[288] İşleniyor: input/cover/2284.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [172/400] -> 2284
+
+[289] İşleniyor: input/cover/7824.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[290] İşleniyor: input/cover/2418.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [173/400] -> 2418
+
+[291] İşleniyor: input/cover/396.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [174/400] -> 396
+
+[292] İşleniyor: input/cover/2964.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [175/400] -> 2964
+
+[293] İşleniyor: input/cover/5118.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [176/400] -> 5118
+
+[294] İşleniyor: input/cover/3033.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[295] İşleniyor: input/cover/2717.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[296] İşleniyor: input/cover/7331.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [177/400] -> 7331
+
+[297] İşleniyor: input/cover/6647.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [178/400] -> 6647
+
+[298] İşleniyor: input/cover/2125.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [179/400] -> 2125
+
+[299] İşleniyor: input/cover/7110.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[300] İşleniyor: input/cover/5106.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[301] İşleniyor: input/cover/2566.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [180/400] -> 2566
+
+[302] İşleniyor: input/cover/5604.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [181/400] -> 5604
+
+[303] İşleniyor: input/cover/4248.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [182/400] -> 4248
+
+[304] İşleniyor: input/cover/4228.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [183/400] -> 4228
+
+[305] İşleniyor: input/cover/1650.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [184/400] -> 1650
+
+[306] İşleniyor: input/cover/6349.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [185/400] -> 6349
+
+[307] İşleniyor: input/cover/7178.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [186/400] -> 7178
+
+[308] İşleniyor: input/cover/3314.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[309] İşleniyor: input/cover/8719.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [187/400] -> 8719
+
+[310] İşleniyor: input/cover/7098.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [188/400] -> 7098
+
+[311] İşleniyor: input/cover/6879.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [189/400] -> 6879
+
+[312] İşleniyor: input/cover/3847.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[313] İşleniyor: input/cover/929.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[314] İşleniyor: input/cover/5415.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[315] İşleniyor: input/cover/7497.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[316] İşleniyor: input/cover/5974.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [190/400] -> 5974
+
+[317] İşleniyor: input/cover/7045.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [191/400] -> 7045
+
+[318] İşleniyor: input/cover/8768.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[319] İşleniyor: input/cover/1328.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[320] İşleniyor: input/cover/2139.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [192/400] -> 2139
+
+[321] İşleniyor: input/cover/3950.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [193/400] -> 3950
+
+[322] İşleniyor: input/cover/912.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [194/400] -> 912
+
+[323] İşleniyor: input/cover/7837.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[324] İşleniyor: input/cover/7991.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [195/400] -> 7991
+
+[325] İşleniyor: input/cover/2760.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [196/400] -> 2760
+
+[326] İşleniyor: input/cover/4881.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [197/400] -> 4881
+
+[327] İşleniyor: input/cover/793.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[328] İşleniyor: input/cover/3623.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [198/400] -> 3623
+
+[329] İşleniyor: input/cover/1151.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [199/400] -> 1151
+
+[330] İşleniyor: input/cover/295.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [200/400] -> 295
+
+[331] İşleniyor: input/cover/8243.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[332] İşleniyor: input/cover/8222.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [201/400] -> 8222
+
+[333] İşleniyor: input/cover/6790.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [202/400] -> 6790
+
+[334] İşleniyor: input/cover/6333.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[335] İşleniyor: input/cover/2003.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [203/400] -> 2003
+
+[336] İşleniyor: input/cover/8711.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [204/400] -> 8711
+
+[337] İşleniyor: input/cover/835.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [205/400] -> 835
+
+[338] İşleniyor: input/cover/2742.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [206/400] -> 2742
+
+[339] İşleniyor: input/cover/3579.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[340] İşleniyor: input/cover/8079.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [207/400] -> 8079
+
+[341] İşleniyor: input/cover/2750.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[342] İşleniyor: input/cover/604.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [208/400] -> 604
+
+[343] İşleniyor: input/cover/4410.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [209/400] -> 4410
+
+[344] İşleniyor: input/cover/7829.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[345] İşleniyor: input/cover/7347.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [210/400] -> 7347
+
+[346] İşleniyor: input/cover/889.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [211/400] -> 889
+
+[347] İşleniyor: input/cover/8793.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [212/400] -> 8793
+
+[348] İşleniyor: input/cover/4360.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [213/400] -> 4360
+
+[349] İşleniyor: input/cover/8140.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [214/400] -> 8140
+
+[350] İşleniyor: input/cover/7692.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [215/400] -> 7692
+
+[351] İşleniyor: input/cover/1211.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[352] İşleniyor: input/cover/908.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [216/400] -> 908
+
+[353] İşleniyor: input/cover/3525.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [217/400] -> 3525
+
+[354] İşleniyor: input/cover/2732.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [218/400] -> 2732
+
+[355] İşleniyor: input/cover/1043.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[356] İşleniyor: input/cover/3911.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[357] İşleniyor: input/cover/5834.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[358] İşleniyor: input/cover/7127.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [219/400] -> 7127
+
+[359] İşleniyor: input/cover/3235.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[360] İşleniyor: input/cover/8334.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [220/400] -> 8334
+
+[361] İşleniyor: input/cover/3273.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[362] İşleniyor: input/cover/1728.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[363] İşleniyor: input/cover/6859.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [221/400] -> 6859
+
+[364] İşleniyor: input/cover/7649.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [222/400] -> 7649
+
+[365] İşleniyor: input/cover/2266.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[366] İşleniyor: input/cover/5920.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[367] İşleniyor: input/cover/4338.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[368] İşleniyor: input/cover/8299.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [223/400] -> 8299
+
+[369] İşleniyor: input/cover/5511.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [224/400] -> 5511
+
+[370] İşleniyor: input/cover/1051.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [225/400] -> 1051
+
+[371] İşleniyor: input/cover/6119.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [226/400] -> 6119
+
+[372] İşleniyor: input/cover/6813.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [227/400] -> 6813
+
+[373] İşleniyor: input/cover/7040.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [228/400] -> 7040
+
+[374] İşleniyor: input/cover/310.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [229/400] -> 310
+
+[375] İşleniyor: input/cover/7537.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [230/400] -> 7537
+
+[376] İşleniyor: input/cover/3265.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [231/400] -> 3265
+
+[377] İşleniyor: input/cover/2662.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [232/400] -> 2662
+
+[378] İşleniyor: input/cover/5686.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [233/400] -> 5686
+
+[379] İşleniyor: input/cover/8129.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [234/400] -> 8129
+
+[380] İşleniyor: input/cover/7144.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [235/400] -> 7144
+
+[381] İşleniyor: input/cover/4826.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[382] İşleniyor: input/cover/4974.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [236/400] -> 4974
+
+[383] İşleniyor: input/cover/3226.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[384] İşleniyor: input/cover/7796.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [237/400] -> 7796
+
+[385] İşleniyor: input/cover/4838.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[386] İşleniyor: input/cover/4645.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [238/400] -> 4645
+
+[387] İşleniyor: input/cover/8552.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [239/400] -> 8552
+
+[388] İşleniyor: input/cover/695.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[389] İşleniyor: input/cover/5116.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[390] İşleniyor: input/cover/8743.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[391] İşleniyor: input/cover/5050.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[392] İşleniyor: input/cover/913.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[393] İşleniyor: input/cover/63.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [240/400] -> 63
+
+[394] İşleniyor: input/cover/5664.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [241/400] -> 5664
+
+[395] İşleniyor: input/cover/5732.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [242/400] -> 5732
+
+[396] İşleniyor: input/cover/5647.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [243/400] -> 5647
+
+[397] İşleniyor: input/cover/6433.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[398] İşleniyor: input/cover/7350.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [244/400] -> 7350
+
+[399] İşleniyor: input/cover/7585.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [245/400] -> 7585
+
+[400] İşleniyor: input/cover/8919.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [246/400] -> 8919
+
+[401] İşleniyor: input/cover/8320.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [247/400] -> 8320
+
+[402] İşleniyor: input/cover/5548.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [248/400] -> 5548
+
+[403] İşleniyor: input/cover/5682.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [249/400] -> 5682
+
+[404] İşleniyor: input/cover/6107.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [250/400] -> 6107
+
+[405] İşleniyor: input/cover/822.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[406] İşleniyor: input/cover/2276.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[407] İşleniyor: input/cover/5178.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [251/400] -> 5178
+
+[408] İşleniyor: input/cover/3816.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [252/400] -> 3816
+
+[409] İşleniyor: input/cover/4191.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [253/400] -> 4191
+
+[410] İşleniyor: input/cover/4516.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [254/400] -> 4516
+
+[411] İşleniyor: input/cover/2333.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[412] İşleniyor: input/cover/6070.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [255/400] -> 6070
+
+[413] İşleniyor: input/cover/2308.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[414] İşleniyor: input/cover/6151.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[415] İşleniyor: input/cover/1991.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[416] İşleniyor: input/cover/5730.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[417] İşleniyor: input/cover/4298.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[418] İşleniyor: input/cover/935.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [256/400] -> 935
+
+[419] İşleniyor: input/cover/3470.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [257/400] -> 3470
+
+[420] İşleniyor: input/cover/8550.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [258/400] -> 8550
+
+[421] İşleniyor: input/cover/1321.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[422] İşleniyor: input/cover/3147.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [259/400] -> 3147
+
+[423] İşleniyor: input/cover/1395.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [260/400] -> 1395
+
+[424] İşleniyor: input/cover/740.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[425] İşleniyor: input/cover/2045.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [261/400] -> 2045
+
+[426] İşleniyor: input/cover/5714.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[427] İşleniyor: input/cover/2065.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [262/400] -> 2065
+
+[428] İşleniyor: input/cover/5322.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [263/400] -> 5322
+
+[429] İşleniyor: input/cover/5271.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  !!! [DWT] hata: Embed tamamlanamadı: küçük coef skip yüzünden kapasite yetmedi.
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[430] İşleniyor: input/cover/8867.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[431] İşleniyor: input/cover/760.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [264/400] -> 760
+
+[432] İşleniyor: input/cover/5.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[433] İşleniyor: input/cover/136.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[434] İşleniyor: input/cover/6146.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[435] İşleniyor: input/cover/340.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [265/400] -> 340
+
+[436] İşleniyor: input/cover/7141.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[437] İşleniyor: input/cover/2369.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [266/400] -> 2369
+
+[438] İşleniyor: input/cover/2593.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[439] İşleniyor: input/cover/965.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[440] İşleniyor: input/cover/5427.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [267/400] -> 5427
+
+[441] İşleniyor: input/cover/5827.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [268/400] -> 5827
+
+[442] İşleniyor: input/cover/5748.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [269/400] -> 5748
+
+[443] İşleniyor: input/cover/5310.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [270/400] -> 5310
+
+[444] İşleniyor: input/cover/8886.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [271/400] -> 8886
+
+[445] İşleniyor: input/cover/4723.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [272/400] -> 4723
+
+[446] İşleniyor: input/cover/8932.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [273/400] -> 8932
+
+[447] İşleniyor: input/cover/7146.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [274/400] -> 7146
+
+[448] İşleniyor: input/cover/3732.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[449] İşleniyor: input/cover/1434.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[450] İşleniyor: input/cover/7070.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [275/400] -> 7070
+
+[451] İşleniyor: input/cover/5840.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[452] İşleniyor: input/cover/4008.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [276/400] -> 4008
+
+[453] İşleniyor: input/cover/224.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[454] İşleniyor: input/cover/5384.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[455] İşleniyor: input/cover/698.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [277/400] -> 698
+
+[456] İşleniyor: input/cover/8329.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [278/400] -> 8329
+
+[457] İşleniyor: input/cover/3121.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [279/400] -> 3121
+
+[458] İşleniyor: input/cover/1081.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [280/400] -> 1081
+
+[459] İşleniyor: input/cover/1017.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[460] İşleniyor: input/cover/6241.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[461] İşleniyor: input/cover/8830.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[462] İşleniyor: input/cover/3394.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [281/400] -> 3394
+
+[463] İşleniyor: input/cover/2230.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [282/400] -> 2230
+
+[464] İşleniyor: input/cover/775.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[465] İşleniyor: input/cover/6574.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [283/400] -> 6574
+
+[466] İşleniyor: input/cover/2310.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [284/400] -> 2310
+
+[467] İşleniyor: input/cover/4684.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [285/400] -> 4684
+
+[468] İşleniyor: input/cover/2974.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[469] İşleniyor: input/cover/1834.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [286/400] -> 1834
+
+[470] İşleniyor: input/cover/519.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [287/400] -> 519
+
+[471] İşleniyor: input/cover/2788.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [288/400] -> 2788
+
+[472] İşleniyor: input/cover/8644.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [289/400] -> 8644
+
+[473] İşleniyor: input/cover/8236.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [290/400] -> 8236
+
+[474] İşleniyor: input/cover/4156.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [291/400] -> 4156
+
+[475] İşleniyor: input/cover/6309.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [292/400] -> 6309
+
+[476] İşleniyor: input/cover/7035.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [293/400] -> 7035
+
+[477] İşleniyor: input/cover/4596.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[478] İşleniyor: input/cover/3060.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[479] İşleniyor: input/cover/1468.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [294/400] -> 1468
+
+[480] İşleniyor: input/cover/5572.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [295/400] -> 5572
+
+[481] İşleniyor: input/cover/5104.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [296/400] -> 5104
+
+[482] İşleniyor: input/cover/7908.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [297/400] -> 7908
+
+[483] İşleniyor: input/cover/6430.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[484] İşleniyor: input/cover/3414.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[485] İşleniyor: input/cover/7570.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [298/400] -> 7570
+
+[486] İşleniyor: input/cover/8505.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [299/400] -> 8505
+
+[487] İşleniyor: input/cover/4954.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [300/400] -> 4954
+
+[488] İşleniyor: input/cover/4584.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[489] İşleniyor: input/cover/3174.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [301/400] -> 3174
+
+[490] İşleniyor: input/cover/4506.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[491] İşleniyor: input/cover/8466.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [302/400] -> 8466
+
+[492] İşleniyor: input/cover/7215.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [303/400] -> 7215
+
+[493] İşleniyor: input/cover/2399.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [304/400] -> 2399
+
+[494] İşleniyor: input/cover/1721.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [305/400] -> 1721
+
+[495] İşleniyor: input/cover/1025.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[496] İşleniyor: input/cover/8836.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [306/400] -> 8836
+
+[497] İşleniyor: input/cover/6996.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [307/400] -> 6996
+
+[498] İşleniyor: input/cover/8385.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [308/400] -> 8385
+
+[499] İşleniyor: input/cover/2123.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[500] İşleniyor: input/cover/4474.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[501] İşleniyor: input/cover/4202.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [309/400] -> 4202
+
+[502] İşleniyor: input/cover/1980.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [310/400] -> 1980
+
+[503] İşleniyor: input/cover/8357.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [311/400] -> 8357
+
+[504] İşleniyor: input/cover/3127.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [312/400] -> 3127
+
+[505] İşleniyor: input/cover/1009.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[506] İşleniyor: input/cover/6582.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [313/400] -> 6582
+
+[507] İşleniyor: input/cover/1925.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [314/400] -> 1925
+
+[508] İşleniyor: input/cover/1729.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [315/400] -> 1729
+
+[509] İşleniyor: input/cover/5656.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[510] İşleniyor: input/cover/6379.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[511] İşleniyor: input/cover/4512.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [316/400] -> 4512
+
+[512] İşleniyor: input/cover/6090.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [317/400] -> 6090
+
+[513] İşleniyor: input/cover/15.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [318/400] -> 15
+
+[514] İşleniyor: input/cover/7465.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[515] İşleniyor: input/cover/4394.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [319/400] -> 4394
+
+[516] İşleniyor: input/cover/289.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [320/400] -> 289
+
+[517] İşleniyor: input/cover/6191.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [321/400] -> 6191
+
+[518] İşleniyor: input/cover/8332.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [322/400] -> 8332
+
+[519] İşleniyor: input/cover/153.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [323/400] -> 153
+
+[520] İşleniyor: input/cover/4072.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [324/400] -> 4072
+
+[521] İşleniyor: input/cover/487.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [325/400] -> 487
+
+[522] İşleniyor: input/cover/6267.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [326/400] -> 6267
+
+[523] İşleniyor: input/cover/2419.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[524] İşleniyor: input/cover/543.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[525] İşleniyor: input/cover/6731.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[526] İşleniyor: input/cover/6050.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[527] İşleniyor: input/cover/4526.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[528] İşleniyor: input/cover/5398.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [327/400] -> 5398
+
+[529] İşleniyor: input/cover/2448.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [328/400] -> 2448
+
+[530] İşleniyor: input/cover/4692.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[531] İşleniyor: input/cover/1944.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [329/400] -> 1944
+
+[532] İşleniyor: input/cover/704.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[533] İşleniyor: input/cover/1053.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[534] İşleniyor: input/cover/716.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [330/400] -> 716
+
+[535] İşleniyor: input/cover/7223.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[536] İşleniyor: input/cover/8038.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[537] İşleniyor: input/cover/8246.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[538] İşleniyor: input/cover/6694.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [331/400] -> 6694
+
+[539] İşleniyor: input/cover/8247.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[540] İşleniyor: input/cover/4052.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [332/400] -> 4052
+
+[541] İşleniyor: input/cover/8904.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [333/400] -> 8904
+
+[542] İşleniyor: input/cover/1447.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [334/400] -> 1447
+
+[543] İşleniyor: input/cover/5558.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [335/400] -> 5558
+
+[544] İşleniyor: input/cover/944.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [336/400] -> 944
+
+[545] İşleniyor: input/cover/2031.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [337/400] -> 2031
+
+[546] İşleniyor: input/cover/2379.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[547] İşleniyor: input/cover/4946.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [338/400] -> 4946
+
+[548] İşleniyor: input/cover/3870.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[549] İşleniyor: input/cover/7429.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [339/400] -> 7429
+
+[550] İşleniyor: input/cover/481.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [340/400] -> 481
+
+[551] İşleniyor: input/cover/7150.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[552] İşleniyor: input/cover/1509.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[553] İşleniyor: input/cover/517.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[554] İşleniyor: input/cover/3800.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[555] İşleniyor: input/cover/694.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[556] İşleniyor: input/cover/552.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[557] İşleniyor: input/cover/8271.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [341/400] -> 8271
+
+[558] İşleniyor: input/cover/4525.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[559] İşleniyor: input/cover/1549.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [342/400] -> 1549
+
+[560] İşleniyor: input/cover/3233.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[561] İşleniyor: input/cover/2581.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[562] İşleniyor: input/cover/5919.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[563] İşleniyor: input/cover/957.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [343/400] -> 957
+
+[564] İşleniyor: input/cover/7393.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [344/400] -> 7393
+
+[565] İşleniyor: input/cover/5046.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [345/400] -> 5046
+
+[566] İşleniyor: input/cover/5409.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[567] İşleniyor: input/cover/6817.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [346/400] -> 6817
+
+[568] İşleniyor: input/cover/3303.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[569] İşleniyor: input/cover/5372.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [347/400] -> 5372
+
+[570] İşleniyor: input/cover/3083.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [348/400] -> 3083
+
+[571] İşleniyor: input/cover/8461.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[572] İşleniyor: input/cover/3874.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[573] İşleniyor: input/cover/5498.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [349/400] -> 5498
+
+[574] İşleniyor: input/cover/1888.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [350/400] -> 1888
+
+[575] İşleniyor: input/cover/8226.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [351/400] -> 8226
+
+[576] İşleniyor: input/cover/4194.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [352/400] -> 4194
+
+[577] İşleniyor: input/cover/3974.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [353/400] -> 3974
+
+[578] İşleniyor: input/cover/4769.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[579] İşleniyor: input/cover/4500.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [354/400] -> 4500
+
+[580] İşleniyor: input/cover/8464.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[581] İşleniyor: input/cover/985.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[582] İşleniyor: input/cover/6442.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[583] İşleniyor: input/cover/8070.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [355/400] -> 8070
+
+[584] İşleniyor: input/cover/4061.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [356/400] -> 4061
+
+[585] İşleniyor: input/cover/4553.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [357/400] -> 4553
+
+[586] İşleniyor: input/cover/4334.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [358/400] -> 4334
+
+[587] İşleniyor: input/cover/4832.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [359/400] -> 4832
+
+[588] İşleniyor: input/cover/8895.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[589] İşleniyor: input/cover/7254.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[590] İşleniyor: input/cover/1095.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [360/400] -> 1095
+
+[591] İşleniyor: input/cover/8621.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [361/400] -> 8621
+
+[592] İşleniyor: input/cover/7963.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[593] İşleniyor: input/cover/8496.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[594] İşleniyor: input/cover/399.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[595] İşleniyor: input/cover/3794.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [362/400] -> 3794
+
+[596] İşleniyor: input/cover/2386.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[597] İşleniyor: input/cover/1368.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[598] İşleniyor: input/cover/459.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [363/400] -> 459
+
+[599] İşleniyor: input/cover/2705.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [364/400] -> 2705
+
+[600] İşleniyor: input/cover/2067.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [365/400] -> 2067
+
+[601] İşleniyor: input/cover/3223.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[602] İşleniyor: input/cover/6976.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [366/400] -> 6976
+
+[603] İşleniyor: input/cover/6888.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[604] İşleniyor: input/cover/6455.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [367/400] -> 6455
+
+[605] İşleniyor: input/cover/1308.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [368/400] -> 1308
+
+[606] İşleniyor: input/cover/2690.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[607] İşleniyor: input/cover/808.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[608] İşleniyor: input/cover/3362.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [369/400] -> 3362
+
+[609] İşleniyor: input/cover/6781.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [370/400] -> 6781
+
+[610] İşleniyor: input/cover/6625.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[611] İşleniyor: input/cover/8803.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[612] İşleniyor: input/cover/3810.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[613] İşleniyor: input/cover/8820.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[614] İşleniyor: input/cover/1132.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[615] İşleniyor: input/cover/1305.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[616] İşleniyor: input/cover/6165.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [371/400] -> 6165
+
+[617] İşleniyor: input/cover/7192.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [372/400] -> 7192
+
+[618] İşleniyor: input/cover/6084.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [373/400] -> 6084
+
+[619] İşleniyor: input/cover/562.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [374/400] -> 562
+
+[620] İşleniyor: input/cover/2245.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[621] İşleniyor: input/cover/2330.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [375/400] -> 2330
+
+[622] İşleniyor: input/cover/1312.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[623] İşleniyor: input/cover/3710.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [376/400] -> 3710
+
+[624] İşleniyor: input/cover/6773.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [377/400] -> 6773
+
+[625] İşleniyor: input/cover/4315.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [378/400] -> 4315
+
+[626] İşleniyor: input/cover/1574.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [379/400] -> 1574
+
+[627] İşleniyor: input/cover/7226.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [380/400] -> 7226
+
+[628] İşleniyor: input/cover/3167.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [381/400] -> 3167
+
+[629] İşleniyor: input/cover/3054.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[630] İşleniyor: input/cover/3547.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[631] İşleniyor: input/cover/2481.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [382/400] -> 2481
+
+[632] İşleniyor: input/cover/3220.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [383/400] -> 3220
+
+[633] İşleniyor: input/cover/468.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [384/400] -> 468
+
+[634] İşleniyor: input/cover/2332.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[635] İşleniyor: input/cover/8502.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [385/400] -> 8502
+
+[636] İşleniyor: input/cover/1746.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [386/400] -> 1746
+
+[637] İşleniyor: input/cover/6340.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [387/400] -> 6340
+
+[638] İşleniyor: input/cover/6327.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [388/400] -> 6327
+
+[639] İşleniyor: input/cover/4464.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[640] İşleniyor: input/cover/8800.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[641] İşleniyor: input/cover/4263.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [389/400] -> 4263
+
+[642] İşleniyor: input/cover/8287.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [390/400] -> 8287
+
+[643] İşleniyor: input/cover/5203.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [391/400] -> 5203
+
+[644] İşleniyor: input/cover/3403.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[645] İşleniyor: input/cover/6449.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [392/400] -> 6449
+
+[646] İşleniyor: input/cover/5610.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [393/400] -> 5610
+
+[647] İşleniyor: input/cover/7610.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[648] İşleniyor: input/cover/523.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [394/400] -> 523
+
+[649] İşleniyor: input/cover/6412.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[650] İşleniyor: input/cover/5226.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [395/400] -> 5226
+
+[651] İşleniyor: input/cover/5412.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  !!! [DWT] failed -> moved to output_failed/dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[652] İşleniyor: input/cover/3179.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [396/400] -> 3179
+
+[653] İşleniyor: input/cover/5300.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [397/400] -> 5300
+
+[654] İşleniyor: input/cover/4953.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [398/400] -> 4953
+
+[655] İşleniyor: input/cover/416.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed/dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[656] İşleniyor: input/cover/595.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [399/400] -> 595
+
+[657] İşleniyor: input/cover/5026.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [400/400] -> 5026
+
+=== BİTTİ ===
+Taranan cover sayısı: 657
+Dataset'e giren (4 yöntem VALID) sayısı: 400
+Filtered out: 257
+
+Fail counts by method:
+LSB   fail: 0
+LSB-M fail: 0
+DCT   fail: 234
+DWT   fail: 154
+
+output/cover ve output/* klasörleri sadece VALID ortak set olacak.
+output_failed/* altına taşınanlar eğitim datasetine dahil edilmemeli.
+===== RUN END =====
+
+
+===== RUN START =====
+Log file: C:\Users\tarikz\Desktop\image-stego\output_logs\run.log
+
+[1] İşleniyor: input\cover\3980.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed\dct
+  !!! [DWT] failed -> moved to output_failed\dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[2] İşleniyor: input\cover\7352.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [1/400] -> 7352
+
+[3] İşleniyor: input\cover\7412.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [2/400] -> 7412
+
+[4] İşleniyor: input\cover\369.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed\dct
+  !!! [DWT] failed -> moved to output_failed\dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[5] İşleniyor: input\cover\273.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [3/400] -> 273
+
+[6] İşleniyor: input\cover\8065.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [4/400] -> 8065
+
+[7] İşleniyor: input\cover\8431.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  !!! [DWT] hata: Embed tamamlanamadı: küçük coef skip yüzünden kapasite yetmedi.
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[8] İşleniyor: input\cover\7367.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed\dct
+  !!! [DWT] failed -> moved to output_failed\dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[9] İşleniyor: input\cover\535.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [5/400] -> 535
+
+[10] İşleniyor: input\cover\2937.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed\dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[11] İşleniyor: input\cover\4068.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed\dct
+  !!! [DWT] failed -> moved to output_failed\dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[12] İşleniyor: input\cover\8367.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed\dct
+  !!! [DWT] failed -> moved to output_failed\dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[13] İşleniyor: input\cover\3541.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed\dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[14] İşleniyor: input\cover\3649.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed\dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[15] İşleniyor: input\cover\3794.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [6/400] -> 3794
+
+[16] İşleniyor: input\cover\7093.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [7/400] -> 7093
+
+[17] İşleniyor: input\cover\384.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [8/400] -> 384
+
+[18] İşleniyor: input\cover\3685.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [9/400] -> 3685
+
+[19] İşleniyor: input\cover\5240.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [10/400] -> 5240
+
+[20] İşleniyor: input\cover\1556.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed\dct
+  [DWT] -> (VALID)
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[21] İşleniyor: input\cover\4370.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  !!! [DWT] failed -> moved to output_failed\dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[22] İşleniyor: input\cover\8376.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [11/400] -> 8376
+
+[23] İşleniyor: input\cover\8289.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [12/400] -> 8289
+
+[24] İşleniyor: input\cover\49.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [13/400] -> 49
+
+[25] İşleniyor: input\cover\904.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [14/400] -> 904
+
+[26] İşleniyor: input\cover\5443.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [15/400] -> 5443
+
+[27] İşleniyor: input\cover\7017.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [16/400] -> 7017
+
+[28] İşleniyor: input\cover\96.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed\dct
+  !!! [DWT] failed -> moved to output_failed\dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[29] İşleniyor: input\cover\8403.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [17/400] -> 8403
+
+[30] İşleniyor: input\cover\4736.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [18/400] -> 4736
+
+[31] İşleniyor: input\cover\5589.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  [DCT] -> (VALID)
+  [DWT] -> (VALID)
+  ✅ COMMON VALID [19/400] -> 5589
+
+[32] İşleniyor: input\cover\8777.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
+  !!! [DCT] failed -> moved to output_failed\dct
+  !!! [DWT] failed -> moved to output_failed\dwt
+  ❌ Bu cover dataset'e alınmadı (4 yöntemden biri FAIL).
+
+[33] İşleniyor: input\cover\710.png
+  [LSB] -> (VALID)
+  [LSB-M] -> (VALID)
