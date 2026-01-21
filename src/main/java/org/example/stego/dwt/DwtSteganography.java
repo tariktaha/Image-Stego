@@ -24,7 +24,7 @@ public class DwtSteganography {
     private static int qimExtract(double c) {
         double a = Math.abs(c);
         double r = a % Q;
-        return (r >= (Q * 0.5)) ? 1 : 0;
+        return (r >= (Q * 0.38)) ? 1 : 0;
     }
 
     public static BufferedImage embedMessageDwt(BufferedImage image, String message) throws Exception {

@@ -98,7 +98,7 @@ public class Main {
             Files.createDirectories(failedDctDir);
             Files.createDirectories(failedDwtDir);
 
-            int targetCommon = 400; // hedef: 4 yöntem de başarılı 400 cover
+            int targetCommon = 1200; // hedef: 4 yöntem de başarılı 400 cover
 
             AtomicInteger scanned = new AtomicInteger(0);
             AtomicInteger commonCount = new AtomicInteger(0);
